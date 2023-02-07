@@ -5,15 +5,15 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|3|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|6|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|3|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|6|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|9|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|9|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Game With Sticks](http://codeforces.com/problemset/problem/451/A)|Codeforces|2|
