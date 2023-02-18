@@ -21,21 +21,21 @@
 |<ul><li>- [  ] Done</li></ul>|14|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|15|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|16|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|18|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|19|[I Wanna Be the Guy](http://codeforces.com/problemset/problem/469/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|21|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|22|[Ilya and Bank Account](http://codeforces.com/problemset/problem/313/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|23|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|24|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|25|[Dreamoon and Stairs](http://codeforces.com/problemset/problem/476/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|26|[Team Olympiad](http://codeforces.com/problemset/problem/490/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|27|[Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|28|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|29|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|30|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|31|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
+|<ul><li>- [  ] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|18|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|19|[I Wanna Be the Guy](http://codeforces.com/problemset/problem/469/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|21|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|22|[Ilya and Bank Account](http://codeforces.com/problemset/problem/313/A)|Codeforces|2|
+|<ul><li>- [  ] Done</li></ul>|23|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
+|<ul><li>- [  ] Done</li></ul>|24|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|25|[Dreamoon and Stairs](http://codeforces.com/problemset/problem/476/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|26|[Team Olympiad](http://codeforces.com/problemset/problem/490/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|27|[Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|28|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|29|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|30|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|31|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|32|[Valera and Antique Items](http://codeforces.com/problemset/problem/441/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Appleman and Easy Task](http://codeforces.com/problemset/problem/462/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|34|[Bear and Raspberry](http://codeforces.com/problemset/problem/385/A)|Codeforces|2|
